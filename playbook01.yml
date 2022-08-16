@@ -8,4 +8,3 @@
   - name: my debug task
     debug:
       msg: "I ran because of a webhook"
-- other breaking change
